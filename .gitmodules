@@ -1,0 +1,3 @@
+[submodule "knowBase"]
+	path = knowBase
+	url = https://github.com/mudassarbajwa49/knowBase.git
