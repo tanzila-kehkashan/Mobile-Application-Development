@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "34996144772",
+    "project_id": "knowbase-app-47444",
+    "storage_bucket": "knowbase-app-47444.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34996144772:android:2bbbb85b33ceb2fbded0d1",
+        "android_client_info": {
+          "package_name": "com.example.figmapp.figma_to_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfYimzOZG3TFsufwEQSmRrTEzNx6WCi7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
