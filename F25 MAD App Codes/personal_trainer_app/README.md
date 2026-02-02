@@ -1,0 +1,23 @@
+# untitled1
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+# Fitness App Project
+
+This is my final year project built with Flutter and Firebase.
+
+## 🎨 App Design
+You can view the full UI design here:
+[Click to View Figma Design](https://www.figma.com/design/zf6rFljhWPYLMLNnyJZSrU/Untitled?node-id=22-159&t=EOX1RI7f55tmm1JB-1)
